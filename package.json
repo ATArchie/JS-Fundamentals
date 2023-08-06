@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/ATArchie/JS-Fundamentals/issues"
   },
-  "homepage": "https://github.com/ATArchie/JS-Fundamentals#readme"
+  "homepage": "https://github.com/ATArchie/JS-Fundamentals#readme",
+  "type": "module"
 }
